@@ -1,0 +1,32 @@
+/*
+Theme Name: Tution Media
+Theme URI: http://google.com;
+Author: Raihan
+Version: 1.0
+*/
+
+.myLogo{
+	width: 200px;
+}
+.myLogo img{
+	width: 100%;
+}
+.post {
+	padding-bottom: 0;
+	padding-top: 0;
+	margin-bottom: 0;
+}
+.post p {
+	height: 58px;
+	margin-bottom: 0;
+	overflow: hidden;
+	font-size: 0.8em;
+}
+mark{
+	background-color: #d8d8d8;
+	border-radius: 5px;
+	font-size: 0.9em;
+}
+.pointer{
+	cursor: pointer;
+}
